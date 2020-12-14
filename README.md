@@ -21,3 +21,5 @@ And if you change your mind, you can stop sponsoring me anytime, guilt-free.
 
 Sponsors will also have early access to work-in-progress tools and libraries before they are made public. 
 Early Access is available for all sponsors, regardless of tier.
+
+**[Get early access now!](https://github.com/sponsors/mre)**
