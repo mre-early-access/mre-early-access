@@ -23,3 +23,10 @@ Sponsors will also have early access to work-in-progress tools and libraries bef
 Early Access is available for all sponsors, regardless of tier.
 
 **[Get early access now!](https://github.com/sponsors/mre)**
+
+## 🥳 Publication
+
+Once early access projects reach a certain level of maturity they are made publicly available.
+Projects that graduated from the programme:
+
+* [gh-stats](https://github.com/mre-early-access/gh-stats) - Async command-line tool for retrieving the stars of all your Github projects
